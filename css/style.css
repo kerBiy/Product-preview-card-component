@@ -135,7 +135,6 @@ body {
 }
 
 .product-content{
-    border: 3px solid red;
     display: grid;
     gap: var(--content-spacing);
     padding: var(--content-padding);
